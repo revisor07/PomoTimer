@@ -1,2 +1,2 @@
 # PomoTimer
-[Link](https://revisor07.github.io/PomoTimer/source)
+[Link](https://revisor07.github.io/PomoTimer)
